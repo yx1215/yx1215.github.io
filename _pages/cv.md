@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Shanghai, New York University Shanghai, 2020
+* One year study away experience in New York, New York University, 09/2018 - 08/2019
+
+Research & Projects
+======
+(View Details in the Research&Projects tab)
+* Parallelization of Monopoly Game Simulations
+* Electronic Health Record System
+* Project on Course Allocation Mechanism
+* Style Recognition for Chinese Calligraphy
+* Chat system
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+(View Details in the Work Experience tab)
+* Spring 2020: Software Development Engineer
+  * Amazon Information Service (Beijing) Co., Ltd. Shanghai Branch
+  * Duties included: Learn and contribute to GluonTs Module in Python
+  * Supervisor: [Bernie Wang](https://www.linkedin.com/in/ywang02) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2018: Assistant Consultant
+  * Shanghai Yo-i Business Information Consulting Co., Ltd.
+  * Duties included: Using Python as basic tools to help with daily office tasks.
+  * Supervisor: Dr. Biao Cheng
+
+* Summer 2017: Market Analysist
+  * Sartorius Stedim (Shanghai) Trading Co., Ltd.
+  * Duties included: Market data analyze and conduct working experience research inside the company.
+  * Supervisor: Daisy Ying
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in English
+* Framework
+  * QT
+  * Tensorflow
+  * Pytorch
+  * Sqlite
+  * GluonTS
+  * Flask
+* Programming Language
+  * Proficient in Python
+  * Familiar with C
+  * Familiar with Javascript
+  * Familiar with processing
 
 Publications
 ======
