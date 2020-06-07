@@ -44,18 +44,15 @@ Work experience
 Skills
 ======
 * Proficient in English
-* Framework
-  * QT
-  * Tensorflow
-  * Pytorch
-  * Sqlite
-  * GluonTS
-  * Flask
+* Framework: QT, Tensorflow, Pytorch, MySQL, GluonTS, Flask
 * Programming Language
   * Proficient in Python
   * Familiar with C
   * Familiar with Javascript
   * Familiar with processing
+  
+Course Taken
+======
 
 Publications
 ======

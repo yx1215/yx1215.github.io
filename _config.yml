@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yixiang Xiao"
-  avatar           : "profile.png"
+  avatar           : "my_photo.JPG"
   bio              : "Graduate from NYUSH"
   location         : "Wuxi, Jiangsu"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "yx1215@nyu.edu"
   researchgate     :
   uri              :
