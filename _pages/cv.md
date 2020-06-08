@@ -40,6 +40,13 @@ Work experience
   * Sartorius Stedim (Shanghai) Trading Co., Ltd.
   * Duties included: Market data analyze and conduct working experience research inside the company.
   * Supervisor: Daisy Ying
+  
+Language
+---
+* Mandarin
+* English (fluent in communication)
+* TOEFL: 108 (Reading 28, Listening 29, Speaking 23, Writing 28)
+* GRE: 323 (V153 61%, Q170 96%, AW4 57%) / 326 (V158 80%, Q168 93%, AW3 15%)
 
 Skills
 ---
