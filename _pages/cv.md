@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
 * B.S. in Shanghai, New York University Shanghai, 2020
 * One year study away experience in New York, New York University, 09/2018 - 08/2019
 
