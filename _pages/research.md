@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Parallelization of Monopoly Game Simulations
-======
+===
 New York University Shanghai, 02/2020~05/2020
 Supervised by [Prof. Olivier Marine](https://shanghai.nyu.edu/academics/faculty/directory/olivier-marin)
 * Created a monopoly game for simulation and enabled simple AI players using Python, 
@@ -19,7 +19,7 @@ Supervised by [Prof. Olivier Marine](https://shanghai.nyu.edu/academics/faculty/
   easily run simulations on HPC in NYUSH to improve performance.
 * Assessed the influence of basic variables on game duration analyzed the reason.
 * Github Link: [https://github.com/Monopoly-Simulation](https://github.com/Monopoly-Simulation)
-* Download Paper [here](https://yx1215.github.io/files/)
+* Download Paper [here](https://yx1215.github.io/files/monopoly_paper.py)
 
 Electronic Health Record System
 ======
