@@ -19,7 +19,7 @@ different works, and a model that helps allocating taxi deployments to minimize 
 
 Contact Information
 ======
-    * Wechat ID: Yixiang_Xiao
-    * QQ: 952457531
-    * E-mail: yx1215@nyu.edu
+   * Wechat ID: Yixiang_Xiao
+   * QQ: 952457531
+   * E-mail: yx1215@nyu.edu
 
