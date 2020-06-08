@@ -16,16 +16,16 @@ Education
 
 Research & Projects
 ---
-(View Details here)
+(View Details [here](https://yx1215.github.io/research/))
 * Parallelization of Monopoly Game Simulations
 * Electronic Health Record System
 * Project on Course Allocation Mechanism
 * Style Recognition for Chinese Calligraphy
 * Chat system
 
-Work experience
+Work Experience
 ---
-(View Details here)
+(View Details [here](https://yx1215.github.io/work/))
 * Spring 2020: Software Development Engineer
   * Amazon Information Service (Beijing) Co., Ltd. Shanghai Branch
   * Duties included: Learn and contribute to GluonTs Module in Python
