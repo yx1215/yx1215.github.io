@@ -23,7 +23,7 @@ Supervised by [Prof. Olivier Marine](https://shanghai.nyu.edu/academics/faculty/
 * Download Paper [here](https://yx1215.github.io/files/monopoly_paper.pdf)
 
 Electronic Health Record System
-======
+---
 New York University Shanghai, 09/2019~12/2019  
 Supervised by [Prof. Lihua Xu](https://shanghai.nyu.edu/academics/faculty/directory/lihua-xu)
 * Aimed to build a web-based application for doctor and patients to store medical appointment records. 
@@ -33,7 +33,7 @@ Supervised by [Prof. Lihua Xu](https://shanghai.nyu.edu/academics/faculty/direct
 * Github Link: [https://github.com/yx1215/EHR](https://github.com/yx1215/EHR)
 
 Project on Course Assignment Mechanism
-======
+---
 New York University, 05/2019~08/2019  
 Supervised by [Prof. Richard Cole](https://cs.nyu.edu/cole/)
 * Aimed to improve a more fair and efficient algorithm for Law School’s course selection system of New York University  
@@ -42,14 +42,14 @@ Supervised by [Prof. Richard Cole](https://cs.nyu.edu/cole/)
 * According to the new algorithm designed to establish the applicable data structure to reduce time complexity 
 
 Style Recognition for Chinese Calligraphy
-======
+---
 New York University Shanghai, 05/2018~08/2018  
 * Aimed to obtain a model that could automatically recognize calligraphic fonts based on calligraphic pictures 
 * Downloaded 50,000 pictures of different calligraphic fonts by using crawler scripts and did digital processing 
 * Used CNN framework in pytorch to train the data set to get the model 
 
 Chat System
-======
+---
 New York University Shanghai, 04/2018~05/2018  
 Supervised by [Prof. Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang)
 * Aimed to writing an entertainment platform for multi-person online chat simulation 
