@@ -16,7 +16,7 @@ Education
 
 Research & Projects
 ======
-(View Details in the Research&Projects tab)
+(View Details here)
 * Parallelization of Monopoly Game Simulations
 * Electronic Health Record System
 * Project on Course Allocation Mechanism
@@ -25,7 +25,7 @@ Research & Projects
 
 Work experience
 ======
-(View Details in the Work Experience tab)
+(View Details here)
 * Spring 2020: Software Development Engineer
   * Amazon Information Service (Beijing) Co., Ltd. Shanghai Branch
   * Duties included: Learn and contribute to GluonTs Module in Python
@@ -53,25 +53,14 @@ Skills
   
 Course Taken
 ======
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Algorithm
+* Data Structure
+* Database
+* Intro to Computer Security
+* Computer System Organization
+* Operating System
+* Machine Learning
+* Big Data
+* Software Engineering
+* Theory of Computing
+* Econometrics
