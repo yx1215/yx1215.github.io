@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Parallelization of Monopoly Game Simulations
-===
+##Parallelization of Monopoly Game Simulations
+
 New York University Shanghai, 02/2020~05/2020  
 Supervised by [Prof. Olivier Marine](https://shanghai.nyu.edu/academics/faculty/directory/olivier-marin)
 * Created a monopoly game for simulation and enabled simple AI players using Python, 
