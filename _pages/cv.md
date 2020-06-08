@@ -15,7 +15,7 @@ Education
 * One year study away experience in New York, New York University, 09/2018 - 08/2019
 
 Research & Projects
-======
+---
 (View Details here)
 * Parallelization of Monopoly Game Simulations
 * Electronic Health Record System
@@ -24,7 +24,7 @@ Research & Projects
 * Chat system
 
 Work experience
-======
+---
 (View Details here)
 * Spring 2020: Software Development Engineer
   * Amazon Information Service (Beijing) Co., Ltd. Shanghai Branch
@@ -42,7 +42,7 @@ Work experience
   * Supervisor: Daisy Ying
 
 Skills
-======
+---
 * Proficient in English
 * Framework: QT, Tensorflow, Pytorch, MySQL, GluonTS, Flask
 * Programming Language
@@ -52,7 +52,7 @@ Skills
   * Familiar with processing
   
 Course Taken
-======
+---
 * Algorithm
 * Data Structure
 * Database
