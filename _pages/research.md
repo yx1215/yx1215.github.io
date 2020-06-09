@@ -12,6 +12,8 @@ Parallelization of Monopoly Game Simulations
 
 New York University Shanghai, 02/2020~05/2020  
 Supervised by [Prof. Olivier Marine](https://shanghai.nyu.edu/academics/faculty/directory/olivier-marin)
+* Aimed to create a user-friendly desktop application that allow researchers to conduct large amount of monopoly game simulations within 
+  a short time for academic purpose.
 * Created a monopoly game for simulation and enabled simple AI players using Python, 
   which allows the user to change basic variables such as income and tax in each round. 
   The implemented monopoly game contains most functions in the original monopoly game, 

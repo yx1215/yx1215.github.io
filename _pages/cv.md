@@ -40,11 +40,17 @@ Work Experience
   * Sartorius Stedim (Shanghai) Trading Co., Ltd.
   * Duties included: Market data analyze and conduct working experience research inside the company.
   * Supervisor: Daisy Ying
-  
+
+Award
+---
+* NYU Shanghai Excellence Award	    05/2020
+* Magna cum laude (top 5%-15% GPA) in Engineering and Computer Science	    05/2020
+
 Language
 ---
 * Mandarin
 * English (fluent in communication)
+* Passed CET-6
 * TOEFL: 108 (Reading 28, Listening 29, Speaking 23, Writing 28)
 * GRE: 323 (V153 61%, Q170 96%, AW4 57%) / 326 (V158 80%, Q168 93%, AW3 15%)
 
